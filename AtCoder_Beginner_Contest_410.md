@@ -3,7 +3,7 @@ title: AtCoder Beginner Contest 410
 categories: 算法题解
 description: 我好菜啊
 tags:
-  - atcoder
+  - AtCoder
 date: 2025-06-22 23:50:08
 
 ---
