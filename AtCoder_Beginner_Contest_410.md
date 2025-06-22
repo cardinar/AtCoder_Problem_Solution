@@ -4,8 +4,6 @@ categories: 算法题解
 description: 我好菜啊
 tags:
   - atcoder
-cover: /img/chino/vec/chino25.jpg
-katex: true
 date: 2025-06-22 23:50:08
 
 ---
